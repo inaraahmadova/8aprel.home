@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\bin\Debug\net6.0\8aprel.home.exe
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\bin\Debug\net6.0\8aprel.home.deps.json
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\bin\Debug\net6.0\8aprel.home.runtimeconfig.json
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\bin\Debug\net6.0\8aprel.home.dll
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\bin\Debug\net6.0\8aprel.home.pdb
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.AssemblyInfo.cs
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.dll
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\refint\8aprel.home.dll
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.pdb
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\8aprel.home.genruntimeconfig.cache
+C:\Users\Hp\source\repos\8aprel.home\8aprel.home\obj\Debug\net6.0\ref\8aprel.home.dll
